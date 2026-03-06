@@ -16,6 +16,7 @@ To test this tool in a controlled environment:
 4. Run the analysis script: `python main.py`.
 
 ##  Repository Structure
-- `main.py`: The core logic for event logging.
+- `keylogger.py`: The core logic for event logging.
 - `.env`: (Ignored by Git) Local configuration for testing.
 - `LICENSE`: MIT License information.
+
